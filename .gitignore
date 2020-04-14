@@ -1,0 +1,6 @@
+EmployeeSQL/config.py
+__pycache__/
+*.py[cod]
+.DS_store
+**.DS_Store
+
