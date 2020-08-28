@@ -8,7 +8,8 @@
   
 ### Data Modeling
 * Sketch out ERD
-![example](EmployeeSQL/QuickDBD-export.png)
+
+  ![example](EmployeeSQL/QuickDBD-export.png)
 
 ### Data Engineering
 * Create table schema for each CSV files
